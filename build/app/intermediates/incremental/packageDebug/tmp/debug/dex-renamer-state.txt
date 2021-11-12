@@ -1,0 +1,4 @@
+#Fri Nov 12 18:42:34 ICT 2021
+base.0=D\:\\Flutter\\Coffe Shop\\coffeshop\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
